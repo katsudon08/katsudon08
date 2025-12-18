@@ -20,3 +20,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=katsudon08&show_icons=true&theme=tokyonight&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsudon08&layout=compact&theme=tokyonight" />
 </div>
+
+![](https://raw.githubusercontent.com/katsudon08/katsudon08/output/github-contribution-grid-snake.svg)
