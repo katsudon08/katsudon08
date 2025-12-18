@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=katsudon08" />
+</div>
 
-<!--
-**katsudon08/katsudon08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=152675&width=500&lines=Frontend+Developer;Student+at+NITIC;Aspiring+Frontend+Master;" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,threejs,react,tailwind,next,supabase,nest,python,git,github" />
+
+<br/>
+
+<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=katsudon08&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsudon08&layout=compact&theme=tokyonight" />
+</div>
