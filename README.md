@@ -23,4 +23,5 @@
 
 <br/>
 
+## 📈 Stats
 ![](https://raw.githubusercontent.com/katsudon08/katsudon08/output/github-contribution-grid-snake.svg)
