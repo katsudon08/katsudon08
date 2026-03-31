@@ -7,22 +7,15 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,threejs,react,tailwind,next,supabase,nest,python,go,git,github" />
 
 ## 👨‍💻 About Me
-学生エンジニアとして、課題を起点にプロダクト開発を行っています。  
-現在は、小学生向けのプログラミング教育アプリを開発中です。
+As an engineer, I develop products starting from user problems.
+Currently, I am working on a programming education app for elementary school students.
 
-ユーザーの課題に対して仮説を立て、検証し続けることで、
-本質的な価値を提供することを大切にしています。
-
-## 🚀 Projects
-
-### 🧠 プログラミング教育アプリ（小学生向け）
-- QRカードとARを使って2人で協力しながら学ぶ、小学生向けプログラミング教育アプリ
-- 実際の利用を想定し、UI/UXや理解しやすさを重視
-- 今後はパフォーマンスの最適化と教育効果の上昇を目指します
+I value forming hypotheses about user problems and continuously validating them,
+in order to deliver truly meaningful value.
 
 ## 🎯 Vision
-ユーザーの課題を起点に考え続け、本質的な価値を提供できるエンジニアを目指しています。  
-単なる機能開発ではなく、「なぜ作るのか」を常に問い続けながらプロダクト開発を行います。
+I strive to become an engineer who continuously thinks from the perspective of user problems and delivers essential value.
+Rather than simply building features, I develop products while constantly questioning, “Why are we building this?”
 
 ## 📈 Stats
 ![](https://raw.githubusercontent.com/katsudon08/katsudon08/output/github-contribution-grid-snake.svg)
