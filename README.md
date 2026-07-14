@@ -28,7 +28,7 @@
 </div>
 
 <!-- =========================  ABOUT ME  ========================= -->
-## 👨‍💻 About Me / 自己紹介
+## <img src="assets/icons/person.svg" width="24" align="top" /> About Me / 自己紹介
 
 ユーザーの課題を起点にプロダクトを開発するエンジニアです。現在は小学生向けのプログラミング教育アプリ **ProgPath** を個人開発しています。<br>
 本当に意味のある価値を届けるために、ユーザーの課題に対して仮説を立て、それを検証し続けることを大切にしています。
@@ -36,21 +36,21 @@
 > As an engineer, I build products starting from user problems. Currently building **ProgPath**, a programming-education app for elementary school students. I value forming hypotheses about user problems and continuously validating them, in order to deliver truly meaningful value.
 
 <!-- =========================  NOW  ========================= -->
-## 🔭 Now / いま取り組んでいること
+## <img src="assets/icons/lightning-bolt.svg" width="24" align="top" /> Now / いま取り組んでいること
 
-- 🚀 **ProgPath** を個人開発中（企画〜設計〜実装まで） — *Building ProgPath solo, from concept to code*
-- 🌱 **バックエンド / インフラ**を学習中：Go・Supabase・VPC などの基礎 — *Learning backend &amp; infra: Go, Supabase, networking (VPC) fundamentals*
-- 🎯 フロントエンドを軸に、**フルスタック**で価値を出せるエンジニアへ — *Growing from frontend toward full-stack*
+- <img src="assets/icons/rocket.svg" width="16" align="top" /> **ProgPath** を個人開発中（企画〜設計〜実装まで） — *Building ProgPath solo, from concept to code*
+- <img src="assets/icons/server.svg" width="16" align="top" /> **バックエンド / インフラ**を学習中：Go・Supabase・VPC などの基礎 — *Learning backend &amp; infra: Go, Supabase, networking (VPC) fundamentals*
+- <img src="assets/icons/target.svg" width="16" align="top" /> フロントエンドを軸に、**フルスタック**で価値を出せるエンジニアへ — *Growing from frontend toward full-stack*
 
 <!-- =========================  VISION  ========================= -->
-## 🎯 Vision / 目指す姿
+## <img src="assets/icons/eye-open.svg" width="24" align="top" /> Vision / 目指す姿
 
 「なぜこれを作るのか？」を問い続け、単なる機能実装ではなく、ユーザーの課題視点から本質的な価値を届けられるエンジニアを目指しています。
 
 > I strive to become an engineer who continuously thinks from the perspective of user problems and delivers essential value — always asking “Why are we building this?” rather than simply building features.
 
 <!-- =========================  FEATURED PROJECT  ========================= -->
-## ⭐ Featured Project — ProgPath
+## <img src="assets/icons/star.svg" width="24" align="top" /> Featured Project — ProgPath
 
 <div align="center">
   <a href="https://prog-path.vercel.app">
@@ -67,15 +67,15 @@
 
 | | |
 | --- | --- |
-| 🧩 **課題 / Problem** | 小学生にとってプログラミングは “難しそう”。キーボードや PC 操作の壁が、最初の一歩を遠ざけていた。 |
-| 💡 **アプローチ / Approach** | **QR コード**（前にすすむ／穴をうめる／ループ／右・左にまがる）を並べて命令を組む “アンプラグド” な操作を採用。キーボード不要で、遊ぶように論理的思考を学べる。**Three.js** で動きのある演出を加え、**Electron** でオフライン版も配布。 |
-| 🛠 **技術 / Stack** | Next.js · React · TypeScript · Tailwind CSS · Three.js · Electron · Vercel |
-| 👤 **役割 / Role** | 個人開発 — 課題定義からUI設計・フロント実装・オフライン対応まで一人で担当。 |
+| <img src="assets/icons/target.svg" width="18" align="top" /> **課題 / Problem** | 小学生にとってプログラミングは “難しそう”。キーボードや PC 操作の壁が、最初の一歩を遠ざけていた。 |
+| <img src="assets/icons/magic-wand.svg" width="18" align="top" /> **アプローチ / Approach** | **QR コード**（前にすすむ／穴をうめる／ループ／右・左にまがる）を並べて命令を組む “アンプラグド” な操作を採用。キーボード不要で、遊ぶように論理的思考を学べる。**Three.js** で動きのある演出を加え、**Electron** でオフライン版も配布。 |
+| <img src="assets/icons/stack.svg" width="18" align="top" /> **技術 / Stack** | Next.js · React · TypeScript · Tailwind CSS · Three.js · Electron · Vercel |
+| <img src="assets/icons/avatar.svg" width="18" align="top" /> **役割 / Role** | 個人開発 — 課題定義からUI設計・フロント実装・オフライン対応まで一人で担当。 |
 
 > A programming-education app for elementary school kids built around the idea of *learning while playing*. Kids assemble commands by scanning **QR codes** (move / fill / loop / turn) — an “unplugged” interaction that teaches logical thinking without a keyboard. Built solo with Next.js, Three.js for playful visuals, and an Electron offline build.
 
 <!-- =========================  SKILLS  ========================= -->
-## 🛠 Skills / 技術スタック
+## <img src="assets/icons/code.svg" width="24" align="top" /> Skills / 技術スタック
 
 <div align="center">
 
@@ -102,12 +102,12 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-<sub>🔎 関心領域 / Interested in — ネットワーク (VPC) · セキュリティ · クラウド</sub>
+<sub><img src="assets/icons/magnifying-glass.svg" width="14" align="top" /> 関心領域 / Interested in — ネットワーク (VPC) · セキュリティ · クラウド</sub>
 
 </div>
 
 <!-- =========================  CAREER  ========================= -->
-## 📜 Career / 経歴
+## <img src="assets/icons/backpack.svg" width="24" align="top" /> Career / 経歴
 
 | 時期 / When | できごと / What |
 | --- | --- |
@@ -118,7 +118,7 @@
 | 2028.03（予定） | Advanced Course 卒業見込み — *Expected graduation* |
 
 <!-- =========================  OTHER PROJECTS  ========================= -->
-## 🚀 Other Projects / その他のプロジェクト
+## <img src="assets/icons/rocket.svg" width="24" align="top" /> Other Projects / その他のプロジェクト
 
 <div align="center">
 
@@ -132,7 +132,7 @@
 </div>
 
 <!-- =========================  STATS  ========================= -->
-## 📈 Stats / 統計
+## <img src="assets/icons/bar-chart.svg" width="24" align="top" /> Stats / 統計
 
 <div align="center">
 
@@ -142,7 +142,7 @@
 </div>
 
 <!-- =========================  CONTRIBUTION SNAKE  ========================= -->
-## 🐍 Contribution Snake / コントリビューション
+## <img src="assets/icons/activity-log.svg" width="24" align="top" /> Contribution Snake / コントリビューション
 
 <div align="center">
   <picture>
@@ -155,6 +155,6 @@
 <!-- =========================  FOOTER  ========================= -->
 <div align="center">
 
-⚡ <em>Thanks for stopping by! / 見てくれてありがとう！</em> ⚡
+<sub><em>Thanks for stopping by! / 見てくれてありがとう！</em></sub>
 
 </div>
