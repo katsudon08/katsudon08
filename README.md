@@ -65,12 +65,24 @@
 
 **「楽しみながら学ぶ」を形にする、小学生向けプログラミング教育の導入アプリ。** 個人開発（企画・設計・実装のすべて）です。
 
-| | |
-| --- | --- |
-| <img src="assets/icons/target.svg" width="18" align="top" /> **課題 / Problem** | 小学生にとってプログラミングは “難しそう”。キーボードや PC 操作の壁が、最初の一歩を遠ざけていた。 |
-| <img src="assets/icons/magic-wand.svg" width="18" align="top" /> **アプローチ / Approach** | **QR コード**（前にすすむ／穴をうめる／ループ／右・左にまがる）を並べて命令を組む “アンプラグド” な操作を採用。キーボード不要で、遊ぶように論理的思考を学べる。**Three.js** で動きのある演出を加え、**Electron** でオフライン版も配布。 |
-| <img src="assets/icons/stack.svg" width="18" align="top" /> **技術 / Stack** | Next.js · React · TypeScript · Tailwind CSS · Three.js · Electron · Vercel |
-| <img src="assets/icons/avatar.svg" width="18" align="top" /> **役割 / Role** | 個人開発 — 課題定義からUI設計・フロント実装・オフライン対応まで一人で担当。 |
+<table>
+  <tr>
+    <td width="170" valign="top"><img src="assets/icons/target.svg" width="16" align="top" /> <strong>課題 / Problem</strong></td>
+    <td>小学生にとってプログラミングは “難しそう”。キーボードや PC 操作の壁が、最初の一歩を遠ざけていた。</td>
+  </tr>
+  <tr>
+    <td width="170" valign="top"><img src="assets/icons/magic-wand.svg" width="16" align="top" /> <strong>アプローチ / Approach</strong></td>
+    <td><strong>QR コード</strong>（前にすすむ／穴をうめる／ループ／右・左にまがる）を並べて命令を組む “アンプラグド” な操作を採用。キーボード不要で、遊ぶように論理的思考を学べる。<strong>Three.js</strong> で動きのある演出を加え、<strong>Electron</strong> でオフライン版も配布。</td>
+  </tr>
+  <tr>
+    <td width="170" valign="top"><img src="assets/icons/stack.svg" width="16" align="top" /> <strong>技術 / Stack</strong></td>
+    <td>Next.js · React · TypeScript · Tailwind CSS · Three.js · Electron · Vercel</td>
+  </tr>
+  <tr>
+    <td width="170" valign="top"><img src="assets/icons/avatar.svg" width="16" align="top" /> <strong>役割 / Role</strong></td>
+    <td>個人開発 — 課題定義から UI 設計・フロント実装・オフライン対応まで一人で担当。</td>
+  </tr>
+</table>
 
 > A programming-education app for elementary school kids built around the idea of *learning while playing*. Kids assemble commands by scanning **QR codes** (move / fill / loop / turn) — an “unplugged” interaction that teaches logical thinking without a keyboard. Built solo with Next.js, Three.js for playful visuals, and an Electron offline build.
 
